@@ -17,3 +17,5 @@ Note that you might get a better nasm output by tunning the optimization paramet
 
 Based on the question:
 http://stackoverflow.com/questions/20737947/how-to-generate-a-nasm-compilable-assembly-code-from-c-source-code-on-linux/
+
+Object file converter, objconv  https://www.agner.org/optimize/#objconv
